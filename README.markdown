@@ -15,19 +15,20 @@ These are the Eclipse colorschemes originally from [eclipsecolorthemes.jottit.co
 Visit the original site for more info, and to add more color schemes to the
 original collection!
 
-But be _careful_ with foreign `.epf` files, or you risk messing up your *entire*
+But be __careful__ with foreign `.epf` files, or you risk messing up your *entire*
 Eclipse configuration.
 
-How to use the `.epf` files
+How to use the .epf files
 -------------------------
 
 - Review the settings
 - In Eclipse, import the preferences from the `.epf` file
+- Enjoy your new color scheme
 
 Also, see this [Stackoverflow thread] [2].
 
 
-* Have fun!* 
+*Have fun!* 
 
 [1]: http://eclipsecolorthemes.jottit.com/ "eclipsecolorthemes.jottit.com"
 [2]: http://stackoverflow.com/questions/96981/color-themes-for-eclipse "stackoverflow.com"
