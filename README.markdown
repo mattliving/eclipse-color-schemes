@@ -7,10 +7,12 @@ I mirror them here for my (and your) convenience, because the original site
 is being targeted by spammers, and the code quality of the `.epf` files was
 a little lacking (some contained color-unrelated Eclipse settings).
 
+The color schemes have been created/converted by [anonfunc] [1].
+
 What is this?
 -------------
 
-These are the Eclipse colorschemes originally from [eclipsecolorthemes.jottit.com] [1].
+These are the Eclipse colorschemes originally uploaded to [eclipsecolorthemes.jottit.com] [2].
 
 Visit the original site for more info, and to add more color schemes to the
 original collection!
@@ -25,11 +27,12 @@ How to use the .epf files
 - In Eclipse, import the preferences from the `.epf` file
 - Enjoy your new color scheme
 
-Also, see this [Stackoverflow thread] [2].
+Also, see the [Stackoverflow thread that kicked it all off] [3].
 
 
 *Have fun!* 
 
-[1]: http://eclipsecolorthemes.jottit.com/ "eclipsecolorthemes.jottit.com"
-[2]: http://stackoverflow.com/questions/96981/color-themes-for-eclipse "stackoverflow.com"
+[1]: http://stackoverflow.com/users/2667/anonfunc "anonfunc@stackoverflow.com"
+[2]: http://eclipsecolorthemes.jottit.com/ "eclipsecolorthemes.jottit.com"
+[3]: http://stackoverflow.com/questions/96981/color-themes-for-eclipse "stackoverflow.com"
 
