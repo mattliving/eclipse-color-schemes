@@ -14,8 +14,8 @@ What is this?
 
 These are the Eclipse colorschemes originally uploaded to [eclipsecolorthemes.jottit.com] [2].
 
-Visit the original site for more info, and to add more color schemes to the
-original collection!
+Visit the original site for more info, and to learn how to export color schemes,
+tidy them up for sharing (manually or using the also mirrored `epf2colorscheme.sh` bash script) and to add more color schemes to the original collection!
 
 But be __careful__ with foreign `.epf` files, or you risk messing up your *entire*
 Eclipse configuration.
