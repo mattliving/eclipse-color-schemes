@@ -1,7 +1,7 @@
 COPYRIGHT NOTICE:
 =================
 
-The color schemes and the abovementioned site are NOT MY WORK.
+The color schemes and the below mentioned site are NOT MY WORK.
 
 I mirror them here for my (and your) convenience, because the original site
 is being targeted by spammers, and the code quality of the `.epf` files was
